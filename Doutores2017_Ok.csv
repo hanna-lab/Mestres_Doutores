@@ -1,0 +1,28 @@
+uf,estado,regiao,numerotitulos,remuneracaoMedia
+AC,Acre,Norte,18,19818
+AP,Amapá,Norte,29,14222
+AM,Amazonas,Norte,1053,17150
+PA,Pará,Norte,2186,16070
+RO,Rondônia,Norte,59,16761
+RR,Roraima,Norte,9,17656
+TO,Tocantins,Norte,102,16131
+AL,Alagoas,Nordeste,463,17330
+BA,Bahia,Nordeste,4869,15978
+CE,Ceará,Nordeste,4446,15857
+MA,Maranhão,Nordeste,281,18146
+PB,Paraíba,Nordeste,3781,19108
+PE,Pernambuco,Nordeste,7292,16000
+PI,Piauí,Nordeste,266,18535
+RN,Rio Grande do Norte,Nordeste,3162,17351
+SE,Sergipe,Nordeste,558,15985
+ES,Espírito Santo,Sudeste,995,16465
+MG,Minas Gerais,Sudeste,19766,16087
+RJ,Rio de Janeiro,Sudeste,32719,17158
+SP,São Paulo,Sudeste,101880,13752
+PR,Paraná,Sul,9496,17144
+RS,Rio Grande do Sul,Sul,20275,15569
+SC,Santa Catarina,Sul,7191,15034
+DF,Distrito Federal,Centro-Oeste,5930,19796
+GO,Goiás,Centro-Oeste,2181,16886
+MT,Mato Grosso,Centro-Oeste,334,20490
+MS,Mato Grosso do Sul,Centro-Oeste,783,16822
